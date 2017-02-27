@@ -1,4 +1,5 @@
 [![Stories in Ready](https://badge.waffle.io/enspiral-root-systems/cobuy.png?label=ready&title=Ready)](https://waffle.io/enspiral-root-systems/cobuy)
+[![Stories in Ready](https://badge.waffle.io/enspiral-root-systems/cobuy.png?label=ready&title=Ready)](https://waffle.io/enspiral-root-systems/cobuy)
 # cobuy
 
 group wholesale purchases as a consumer co-op
